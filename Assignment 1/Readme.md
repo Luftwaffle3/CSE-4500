@@ -23,7 +23,10 @@ The following **bonus** features are implemented:
 
 ## Screenshot and/or Video Walkthrough
 
-<img src="https://imgur.com/gallery/4rAXx5x" title='Example Video Walkthrough' width='' alt='Example Video Walkthrough' />
+<img src="images/Screenshot 2024-02-05 124916.png" title='First screenshot' width='' alt='First screenshot' />
+<img src="images/Screenshot 2024-02-05 124926.png" title='Second screenshot' width='' alt='Second screenshot' />
+<img src="images/Screenshot 2024-02-05 124936.png" title='Third screenshot' width='' alt='Third screenshot' />
+<img src="images/Screenshot 2024-02-05 124944.png" title='Fourth screenshot' width='' alt='Fourth screenshot' />
 
 
 ## Notes:
