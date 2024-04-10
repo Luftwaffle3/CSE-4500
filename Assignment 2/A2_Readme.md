@@ -24,7 +24,7 @@ The following **bonus** features are implemented:
 
 <img src="images/React App.jpg" title='First screenshot' width='' alt='First screenshot' />
 <img src="images/Screenshot 2024-03-10 162808.png" title='Second screenshot' width='' alt='Second screenshot' />
-<img src="images/Screenshot 2024-03-10 170205" title='Third screenshot' width='' alt='Third screenshot' />
+<img src="images/Screenshot 2024-03-10 170205.png" title='Third screenshot' width='' alt='Third screenshot' />
 
 
 ## Notes:
