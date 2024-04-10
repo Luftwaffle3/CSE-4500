@@ -8,23 +8,21 @@ Time spent: **NUMBER_HOURS_SPENT** hours spent in total
 
 The following **required** features are completed:
 
-- [x] Organize Github folders (2 pts)
-- [x] Create a user with affinity towards keyword(s) and verify that it works (3 pts)
-- [x] Create a user with affinity towards image(s) and verify that it works (3 pts)
-- [x] Create a user with affinity towards links and verify that it works (3 pts)
-- [x] Describe a user with unique affinities (1 pt)
-- [x] Create a user with unique affinities and verify that it works (3 pts)
+- [ ] Organize Github folders (2 pts)
+- [ ] Create a user with affinity towards keyword(s) and verify that it works (3 pts)
+- [ ] Create a user with affinity towards image(s) and verify that it works (3 pts)
+- [ ] Create a user with affinity towards links and verify that it works (3 pts)
+- [ ] Describe a user with unique affinities (1 pt)
+- [ ] Create a user with unique affinities and verify that it works (3 pts)
 The following **bonus** features are implemented:
 
 - [ ] Create a unique user with an affinity OUTSIDE of keywords, images, or links (1.5 pt)
-- [x] Uploaded files for a unique user BOTH in javascript and python (1.5 pt)
+- [ ] Uploaded files for a unique user BOTH in javascript and python (1.5 pt)
 - [ ] DESCRIBE ANY OTHER FEATURES HERE.
 
 ## Screenshot and/or Video Walkthrough
 
-<img src="images/Screenshot 2024-04-09 191819.png" title='First screenshot' width='' alt='First screenshot' />
-<img src="images/Screenshot 2024-04-09 193508.png" title='Second screenshot' width='' alt='Second screenshot' />
-<img src="images/Screenshot 2024-04-09 205452.png" title='Third screenshot' width='' alt='Third screenshot' />
+<img src="https://imgur.com/gallery/4rAXx5x" title='Example Video Walkthrough' width='' alt='Example Video Walkthrough' />
 
 
 ## Notes:
