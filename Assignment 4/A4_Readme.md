@@ -8,9 +8,9 @@ Time spent: **NUMBER_HOURS_SPENT** hours spent in total
 
 The following **required** features are completed:
 
-- [ ] Organize Github folders (2 pts)
-- [ ] Create a user with affinity towards keyword(s) and verify that it works (3 pts)
-- [ ] Create a user with affinity towards image(s) and verify that it works (3 pts)
+- [x] Organize Github folders (2 pts)
+- [x] Create a user with affinity towards keyword(s) and verify that it works (3 pts)
+- [x] Create a user with affinity towards image(s) and verify that it works (3 pts)
 - [ ] Create a user with affinity towards links and verify that it works (3 pts)
 - [ ] Describe a user with unique affinities (1 pt)
 - [ ] Create a user with unique affinities and verify that it works (3 pts)
@@ -22,7 +22,9 @@ The following **bonus** features are implemented:
 
 ## Screenshot and/or Video Walkthrough
 
-<img src="https://imgur.com/gallery/4rAXx5x" title='Example Video Walkthrough' width='' alt='Example Video Walkthrough' />
+<img src="images/Screenshot 2024-04-09 191819.png" title='First screenshot' width='' alt='First screenshot' />
+<img src="images/Screenshot 2024-04-09 193508.png" title='Second screenshot' width='' alt='Second screenshot' />
+<img src="" title='Third screenshot' width='' alt='Third screenshot' />
 
 
 ## Notes:
