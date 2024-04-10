@@ -22,8 +22,9 @@ The following **bonus** features are implemented:
 
 ## Screenshot and/or Video Walkthrough
 
-<img src="https://imgur.com/gallery/4rAXx5x" title='Example Video Walkthrough' width='' alt='Example Video Walkthrough' />
-
+<img src="images/Screenshot 2024-03-24 191848.png" title='First screenshot' width='' alt='First screenshot' />
+<img src="images/Screenshot 2024-03-25 100233.png" title='Second screenshot' width='' alt='Second screenshot' />
+<img src="images/The SQL Murder Mystery_ Detailed Walkthrough_page-0001.jpg" title='Third screenshot' width='' alt='Third screenshot' />
 
 ## Notes:
 PROVIDE RELEVANT OR ADDITIONAL INFORMATION HERE. Below are formatting options to add emphasis in text
