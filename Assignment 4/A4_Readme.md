@@ -24,7 +24,7 @@ The following **bonus** features are implemented:
 
 <img src="images/Screenshot 2024-04-09 191819.png" title='First screenshot' width='' alt='First screenshot' />
 <img src="images/Screenshot 2024-04-09 193508.png" title='Second screenshot' width='' alt='Second screenshot' />
-<img src="" title='Third screenshot' width='' alt='Third screenshot' />
+<img src="images/Screenshot 2024-04-09 205452.png" title='Third screenshot' width='' alt='Third screenshot' />
 
 
 ## Notes:
